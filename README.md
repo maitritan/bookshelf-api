@@ -1,6 +1,5 @@
 # Bookshelf API
-Bookshelf API is a backend project in the API system from Dicoding Indonesia.
-
+Bookshelf API is the final backend project on the API system organized and reviewed by Dicoding Indonesia.
 
 ## Installation
 * Use Visual Code Studio to run the server of the API system.
