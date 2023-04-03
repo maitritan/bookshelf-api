@@ -11,3 +11,6 @@ Bookshelf API is a backend project in the API system from Dicoding Indonesia.
 
 ## Created by
 Maitri Tanarya
+
+## Reference
+[Dicoding Indonesia course on "Belajar Membuat Aplikasi Back-End untuk Pemula"](https://www.dicoding.com/)
