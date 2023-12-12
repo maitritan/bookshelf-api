@@ -1,5 +1,5 @@
 # Bookshelf API
-Bookshelf API is a backend API system project built in Visual Studio Code and tested using Postman. This project was organized and reviewed by Dicoding Indonesia.
+BBookshelf API is a backend API system project built in Visual Studio Code and tested using Postman for a website. This project was organized and reviewed by Dicoding Indonesia.
 
 ## Installation
 * Use Visual Code Studio to run the server of the API system.
